@@ -1,0 +1,1 @@
+# Jajucha_TrainingData_CNN
